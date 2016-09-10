@@ -1,0 +1,75 @@
+*{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.menu {
+	padding-top:20px;
+	
+}
+
+.plano1 {
+	background: url(../images/background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 265px;
+	margin-top:20px;
+}
+
+.logo{
+	width: 50px;
+	margin-top: 45px;
+}
+
+.l1, .l2{
+	color: white;
+}
+
+.tile1 {
+	background: url(../images/tile1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 435px;
+}
+
+h3 {
+	color:purple;
+	margin-top:60px;
+	margin-bottom: 30px;
+}
+.foto_perfil{
+	margin-top: 20px;
+	border: solid black;
+	border-width: 1px;
+	width:60%;
+}
+
+h4 {
+	color:purple;
+	margin-top:-15px;
+	margin-bottom: 40px;
+}
+
+.about_me {
+	margin-top: 20px;
+	margin-left: -110px;
+	margin-right: 60px;
+	text-align: left;
+	font-size: small;
+}
+
+.gato{
+	border-radius: 100%;
+	border: solid purple;
+	border-width: 3px;
+	width: 140px;
+
+}
+
+.tile2 {
+	background: url(../images/tile2.png);
+	background-size: cover;
+	height: 330;
+	margin-top: 50px;
+}
